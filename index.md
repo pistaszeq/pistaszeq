@@ -2,6 +2,11 @@
 
 hello if you are here thet means you probbbly intrested in my indie Fps game
 
+# 13.01.2022
+first things first hally new year and sorry for not updating my website.
+about the game i've added some animations and haven't worked on since months but i'll update you when i'll do something
+once again happy new yayr 2022
+
 # 19.11.2021
 
 - added reloading.
@@ -10,7 +15,6 @@ hello if you are here thet means you probbbly intrested in my indie Fps game
 - all ammo counter (total ammo).
 - adding health counter to the player.
 
-  Today no ss. I'll post them 22.11.2021
 
 # 18.11.2021
 
